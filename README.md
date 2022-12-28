@@ -1,9 +1,16 @@
 <div align="center">
-  <h3>@hkmast</h3>
-</div>
+
+# @hkmast
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhkmast%2F&count_bg=%2379C83D&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+## Stack
 
 <div>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhkmast%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  <br>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alkin9)](https://solved.ac/alkin9/)
+
 </div>
+
+
+## stat
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkmast&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkmast&layout=compact)](https://github.com/hkmast/github-readme-stats)
