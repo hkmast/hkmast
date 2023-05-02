@@ -19,8 +19,6 @@
 
 
 ## Stat
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkmast&layout=compact)](https://github.com/hkmast/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkmast&show_icons=true&theme=dracula)
+![hkmast's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkmast&show_icons=true&theme=dracula)
   
 
