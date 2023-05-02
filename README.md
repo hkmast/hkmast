@@ -60,6 +60,18 @@
 </div>
 <br>
 
+## 🪪 Certificates
+- 정보처리기사
+- SQLD
+- 통신선로기능사
+- 전자기기기능사
+
+<br>
+
+## 🏆 Awards
+- 세종대학교 제14회 창의 설계경진대회 최우수상
+
+
 ## 📈 Stats
 
 <div align="center">
